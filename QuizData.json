@@ -1,0 +1,245 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        15,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Benda yang menghasilkan bunyi disebut ..."
+            ],
+            [
+                "Bunyi yang memiliki frekuensi di atas 20.000 Hz disebut ..."
+            ],
+            [
+                "Bunyi yang dapat didengar oleh manusia memiliki frekuensi antara ..."
+            ],
+            [
+                "Bunyi tidak dapat merambat melalui ..."
+            ],
+            [
+                "Berikut yang bukan termasuk contoh benda yang menghasilkan bunyi infrasonik adalah ..."
+            ],
+            [
+                "Bunyi yang dipantulkan oleh permukaan yang datar dan luas akan menghasilkan ..."
+            ],
+            [
+                "Bagian telinga yang berfungsi menangkap getaran bunyi adalah ..."
+            ],
+            [
+                "Gelombang bunyi yang ditangkap oleh daun telinga akan diteruskan ke ..."
+            ],
+            [
+                "Alur Proses pendengaran manusia yang benar dibawah ini adalah ..."
+            ],
+            [
+                "Gendang telinga yang bergetar akan menggerakkan ..."
+            ],
+            [
+                "Tiga tulang pendengaran terdapat di ..."
+            ],
+            [
+                "Bagian telinga yang berfungsi mengubah getaran suara menjadi sinyal saraf adalah ..."
+            ],
+            [
+                "Saluran Eustachius berfungsi untuk ..."
+            ],
+            [
+                "Apa penyebab otosklerosis?"
+            ],
+            [
+                "Gangguan telinga yang disebabkan oleh adanya peradangan pada telinga bagian tengah disebut?"
+            ]
+        ],
+        [
+            [
+                "Sumber bunyi"
+            ],
+            [
+                "Audiosonik"
+            ],
+            [
+                "20 Hz - 20.000 Hz"
+            ],
+            [
+                "Ruang hampa"
+            ],
+            [
+                "Kelelawar"
+            ],
+            [
+                "Gema"
+            ],
+            [
+                "Gendang telinga"
+            ],
+            [
+                "Saluran telinga"
+            ],
+            [
+                "Daun telinga - saluran telinga - gendang telinga - tulang pendengaran - rumah siput - saraf pendengaran."
+            ],
+            [
+                "Tulang pendengaran"
+            ],
+            [
+                "Telinga tengah"
+            ],
+            [
+                "Koklea"
+            ],
+            [
+                "Menjaga keseimbangan tekanan udara antara telinga tengah dan rongga tenggorokan"
+            ],
+            [
+                "Pertumbuhan abnormal tulang pendengaran"
+            ],
+            [
+                "Otitis media"
+            ]
+        ],
+        [
+            [
+                "Perambatan bunyi"
+            ],
+            [
+                "Infrasonik"
+            ],
+            [
+                "200 Hz - 20.000 Hz"
+            ],
+            [
+                "Udara"
+            ],
+            [
+                "Gajah"
+            ],
+            [
+                "Gaung"
+            ],
+            [
+                "Daun telinga"
+            ],
+            [
+                "Gendang telinga"
+            ],
+            [
+                "Daun telinga - gendang telinga - saluran telinga - rumah siput - tulang pendengaran - saraf pendengaran."
+            ],
+            [
+                "Cairan perilimfa"
+            ],
+            [
+                "Telinga luar"
+            ],
+            [
+                "Daun telinga"
+            ],
+            [
+                "Mengubah getaran suara menjadi sinyal saraf"
+            ],
+            [
+                "Penumpukan kotoran telinga"
+            ],
+            [
+                "Otosklerosis"
+            ]
+        ],
+        [
+            [
+                "Pemantulan bunyi"
+            ],
+            [
+                "Ultrasonik"
+            ],
+            [
+                "2.000 Hz - 20.000 Hz"
+            ],
+            [
+                "Air"
+            ],
+            [
+                "Jangkrik"
+            ],
+            [
+                "Nada"
+            ],
+            [
+                "Lubang telinga"
+            ],
+            [
+                "Tulang pendengaran"
+            ],
+            [
+                "Daun telinga - saluran telinga - gendang telinga - rumah siput - tulang pendengaran - saraf pendengaran."
+            ],
+            [
+                "Membran basiler"
+            ],
+            [
+                "Telinga dalam"
+            ],
+            [
+                "Gendang telinga"
+            ],
+            [
+                "Menjaga keseimbangan tubuh"
+            ],
+            [
+                "Peradangan pada telinga tengah"
+            ],
+            [
+                "Cerumen"
+            ]
+        ],
+        [
+            [
+                "Penguat bunyi"
+            ],
+            [
+                "Gaung"
+            ],
+            [
+                "20.000 Hz - 200.000 Hz"
+            ],
+            [
+                "Kayu"
+            ],
+            [
+                "Petir"
+            ],
+            [
+                "Tempo"
+            ],
+            [
+                "Koklea"
+            ],
+            [
+                "Koklea"
+            ],
+            [
+                "Daun telinga - saluran telinga - gendang telinga - tulang pendengaran - saraf pendengaran - rumah siput."
+            ],
+            [
+                "Sel rambut"
+            ],
+            [
+                "Saluran Eustachius"
+            ],
+            [
+                "Saraf pendengaran"
+            ],
+            [
+                "Meneruskan getaran suara ke telinga tengah"
+            ],
+            [
+                "Infeksi virus pada telinga"
+            ],
+            [
+                "Tinnitus"
+            ]
+        ]
+    ]
+}
