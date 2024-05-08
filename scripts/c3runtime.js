@@ -4752,6 +4752,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.Height,
 		C3.Behaviors.DragnDrop.Cnds.OnDrop,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
+		C3.Plugins.Sprite.Cnds.PickDistance,
 		C3.Plugins.Sprite.Exps.PickedCount,
 		C3.Plugins.Sprite.Exps.Count,
 		C3.Plugins.Sprite.Acts.SetEffectEnabled,
