@@ -4722,6 +4722,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetSize,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.System.Acts.NextPrevLayout,
+		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.Audio.Cnds.OnEnded,
 		C3.Plugins.video.Acts.Play,
@@ -4732,7 +4733,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Cnds.CompareInstanceVar,
 		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.Sprite.Acts.SetBoolInstanceVar,
-		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.Arr.Exps.At,
 		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.System.Cnds.PickRandom,
@@ -4811,6 +4811,7 @@ self.C3_JsPropNameTable = [
 	{ID: 0},
 	{UIText: 0},
 	{ObjectName: 0},
+	{Description: 0},
 	{ButtonZatPadat: 0},
 	{ButtonZatCair: 0},
 	{ButtonZatGas: 0},
@@ -4904,6 +4905,8 @@ self.C3_JsPropNameTable = [
 	{DraggableObject: 0},
 	{DragPos: 0},
 	{CompletePop: 0},
+	{Ilustrasi: 0},
+	{PopText: 0},
 	{NavigationButtons: 0},
 	{SoundButtons: 0},
 	{Sine: 0},
@@ -4914,8 +4917,10 @@ self.C3_JsPropNameTable = [
 	{DropBoxs: 0},
 	{DragDrop: 0},
 	{DraggableObjects: 0},
+	{PopTexts: 0},
 	{BGM: 0},
 	{SoundGIFPlaying: 0},
+	{ObjectDescription: 0},
 	{SFXName: 0},
 	{State: 0},
 	{CorrectAnswer: 0},
@@ -5032,6 +5037,8 @@ self.InstanceType = {
 	DraggableObject: class extends self.ISpriteInstance {},
 	DragPos: class extends self.ISpriteInstance {},
 	CompletePop: class extends self.ISpriteInstance {},
+	Ilustrasi: class extends self.ISpriteInstance {},
+	PopText: class extends self.ITextInstance {},
 	NavigationButtons: class extends self.ISpriteInstance {},
 	SoundButtons: class extends self.ISpriteInstance {},
 	WavePoints: class extends self.ISpriteInstance {},
@@ -5039,7 +5046,8 @@ self.InstanceType = {
 	UITexts: class extends self.ITextInstance {},
 	LoadingObjects: class extends self.ISpriteInstance {},
 	DropBoxs: class extends self.ISpriteInstance {},
-	DraggableObjects: class extends self.ISpriteInstance {}
+	DraggableObjects: class extends self.ISpriteInstance {},
+	PopTexts: class extends self.ITextInstance {}
 }
 }
 
